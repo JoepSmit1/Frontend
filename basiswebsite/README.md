@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Joep Smit
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -39,17 +39,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <a href="https://www.ufc.com">UFC</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  De homepagina van de UFC  
   <img src="UFC-homepage.jpg" width="375px" alt="Homepagina van de UFC">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Detailpagina over Ilia Topuria (UFC-Vechter) 
   <img src="UFC-Tweedescherm.jpg" width="375px" alt="Detail scherm van Ilia Topuria">
  
 </details>
 
 
-
+s
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
