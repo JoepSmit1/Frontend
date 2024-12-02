@@ -7,9 +7,6 @@
 
 
 
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -19,13 +16,58 @@
 	--color-background:#eee;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: absolute;
+  top:2em;
+  left:2em;
+  right:2em;
+}
+
+header  nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: silver;
+
+
+}
+
+
+header  ul {
+  display: flex;
+  list-style-type: none;
+  gap: 3em;
+  align-items: center;
+}
+
+header  li {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+header img {
+  width:8em;
+}
+
 
 
 
 
 /****************/
-/* JOUW STYLING */
+/* MAIN */
 /****************/
 
 /* jouw code */
 
+
+main section {
+
+}
+
+main section img {
+  width:100%;
+}
